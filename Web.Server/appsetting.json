@@ -1,0 +1,10 @@
+﻿{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=DESKTOP-95DEEIH\\SQLEXPRESS;Database=satronus;Trusted_Connection=True;MultipleActiveResultSets=True"
+  },
+  "Jwt": {
+    "Issuer": "satronus",
+    "Audience": "satronus",
+    "SecretKey": "SecretKeySatronus"
+  }
+}
