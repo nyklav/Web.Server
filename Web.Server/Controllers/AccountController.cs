@@ -26,24 +26,24 @@ namespace Web.Server.Controllers
             _signInManager = signInManager;
         }
 
-        [Route("create")]
-        //[Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]
+        [HttpPost("create")]
+        [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]
         public async Task<IActionResult> Create()
         {
-            _userAccountDbContext.Database.EnsureCreated();
+            //_userAccountDbContext.Database.EnsureCreated();
 
-            var result = await _userManager.CreateAsync(new UserAccount
-            {
-                UserName = "nyklav",
-                FirstName = "Nyk",
-                LastName = "Lav",
-                Email = "nyklav@gmail.com"
-            }, "password");
+            //var result = await _userManager.CreateAsync(new UserAccount
+            //{
+            //    UserName = "nyklav",
+            //    FirstName = "Nyk",
+            //    LastName = "Lav",
+            //    Email = "nyklav@gmail.com"
+            //}, "password");
 
-            if (result.Succeeded)
+            //if (result.Succeeded)
                 return Content("User created", "text/html");
 
-            return Content("Faild", "text/html");
+            //return Content("Faild", "text/html");
         }
 
         /// <summary>

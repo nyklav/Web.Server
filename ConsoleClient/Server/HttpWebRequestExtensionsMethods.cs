@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleClient
 {
-    public static class HttpWebRequestExtensionsMethod
+    public static class HttpWebRequestExtensionsMethods
     {
         /// <summary>
         /// Extensions method for <see cref="HttpWebRequest"/>
@@ -19,7 +19,7 @@ namespace ConsoleClient
             {
                 StatusCode = webResponse.StatusCode,
                 StatusDescription = webResponse.StatusDescription,
-                Headers = webResponse.Headers,
+                //Headers = webResponse.Headers,
                 ContentType = webResponse.ContentType
             };
 

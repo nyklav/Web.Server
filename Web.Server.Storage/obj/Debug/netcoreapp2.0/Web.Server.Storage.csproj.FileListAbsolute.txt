@@ -1,4 +1,3 @@
-C:\Users\vnwia\source\repos\Web.Server\Web.Server.Storage\obj\Debug\netcoreapp2.0\Web.Server.Storage.csprojResolveAssemblyReference.cache
 C:\Users\vnwia\source\repos\Web.Server\Web.Server.Storage\obj\Debug\netcoreapp2.0\Web.Server.Storage.csproj.CoreCompileInputs.cache
 C:\Users\vnwia\source\repos\Web.Server\Web.Server.Storage\obj\Debug\netcoreapp2.0\Web.Server.Storage.AssemblyInfoInputs.cache
 C:\Users\vnwia\source\repos\Web.Server\Web.Server.Storage\obj\Debug\netcoreapp2.0\Web.Server.Storage.AssemblyInfo.cs
@@ -9,3 +8,4 @@ C:\Users\vnwia\source\repos\Web.Server\Web.Server.Storage\bin\Debug\netcoreapp2.
 C:\Users\vnwia\source\repos\Web.Server\Web.Server.Storage\bin\Debug\netcoreapp2.0\Web.Server.Storage.pdb
 C:\Users\vnwia\source\repos\Web.Server\Web.Server.Storage\obj\Debug\netcoreapp2.0\Web.Server.Storage.dll
 C:\Users\vnwia\source\repos\Web.Server\Web.Server.Storage\obj\Debug\netcoreapp2.0\Web.Server.Storage.pdb
+C:\Users\vnwia\source\repos\Web.Server\Web.Server.Storage\obj\Debug\netcoreapp2.0\Web.Server.Storage.csprojAssemblyReference.cache

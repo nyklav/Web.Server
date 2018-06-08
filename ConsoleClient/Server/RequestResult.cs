@@ -23,7 +23,7 @@ namespace ConsoleClient
         /// <summary>
         /// The response headers
         /// </summary>
-        public WebHeaderCollection Headers { get; set; }
+        //public WebHeaderCollection Headers { get; set; }
         /// <summary>
         /// The type of content returned
         /// </summary>

@@ -3,7 +3,6 @@ C:\Users\vnwia\source\repos\Web.Server\Web.Server\bin\Debug\netcoreapp2.0\Web.Se
 C:\Users\vnwia\source\repos\Web.Server\Web.Server\bin\Debug\netcoreapp2.0\Web.Server.runtimeconfig.dev.json
 C:\Users\vnwia\source\repos\Web.Server\Web.Server\bin\Debug\netcoreapp2.0\Web.Server.dll
 C:\Users\vnwia\source\repos\Web.Server\Web.Server\bin\Debug\netcoreapp2.0\Web.Server.pdb
-C:\Users\vnwia\source\repos\Web.Server\Web.Server\obj\Debug\netcoreapp2.0\Web.Server.csprojResolveAssemblyReference.cache
 C:\Users\vnwia\source\repos\Web.Server\Web.Server\obj\Debug\netcoreapp2.0\Web.Server.csproj.CoreCompileInputs.cache
 C:\Users\vnwia\source\repos\Web.Server\Web.Server\obj\Debug\netcoreapp2.0\Web.Server.AssemblyInfoInputs.cache
 C:\Users\vnwia\source\repos\Web.Server\Web.Server\obj\Debug\netcoreapp2.0\Web.Server.AssemblyInfo.cs
@@ -11,3 +10,5 @@ C:\Users\vnwia\source\repos\Web.Server\Web.Server\obj\Debug\netcoreapp2.0\Web.Se
 C:\Users\vnwia\source\repos\Web.Server\Web.Server\obj\Debug\netcoreapp2.0\Web.Server.pdb
 C:\Users\vnwia\source\repos\Web.Server\Web.Server\bin\Debug\netcoreapp2.0\Web.Server.Storage.dll
 C:\Users\vnwia\source\repos\Web.Server\Web.Server\bin\Debug\netcoreapp2.0\Web.Server.Storage.pdb
+C:\Users\vnwia\source\repos\Web.Server\Web.Server\obj\Debug\netcoreapp2.0\Web.Server.csprojAssemblyReference.cache
+C:\Users\vnwia\source\repos\Web.Server\Web.Server\obj\Debug\netcoreapp2.0\Web.Server.csproj.CopyComplete
